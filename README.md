@@ -1,4 +1,4 @@
-# CaSB Short Course 2024
+# MCSB Bootcamp 2024
 
 ## Let's write a short story!
 
